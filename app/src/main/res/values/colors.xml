@@ -7,5 +7,7 @@
     <color name="lightPurple">#8381C2</color>
     <color name="Purple">#6624A0</color>
     <color name="cream">#C8BAB3</color>
+    <color name="light_YEllow">#FFFFED</color>
+    <color name="red">#FF0000</color>
 
 </resources>
